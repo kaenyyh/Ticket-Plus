@@ -2,7 +2,7 @@
 
 > Java Web Service Development: Events Search and Ticket Recommendation
 
-![](FrontPage.png)
+![](FrontPage.jpg)
 
 ## FrontEnd
 AJAX: HTML, CSS, JavaScript
