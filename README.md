@@ -2,9 +2,6 @@
 
 > Java Web Service Development: Events Search and Ticket Recommendation
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 ![](FrontPage.png)
 
 ## FrontEnd
